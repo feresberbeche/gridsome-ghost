@@ -16,7 +16,7 @@
     "gridsome-plugin-pwa": "0.0.18",
     "gridsome-source-static-meta": "github:noxify/gridsome-source-static-meta#master",
     "lodash": "^4.17.19",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "pluralize": "^8.0.0",
     "sass-loader": "^8.0.2",
     "tailwindcss": "^1.5.2",
